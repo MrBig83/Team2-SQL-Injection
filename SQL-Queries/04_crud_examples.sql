@@ -10,3 +10,9 @@ WHERE SKU = 'SKU-1001';
 SELECT SKU, Name, UnitPrice
 FROM dbo.Products
 WHERE SKU = 'SKU-1001';
+
+-- SELECT example: WHERE filtering + ORDER BY
+SELECT SKU, Name, UnitPrice
+FROM dbo.Products
+WHERE UnitPrice > 50
+ORDER BY UnitPrice DESC;
