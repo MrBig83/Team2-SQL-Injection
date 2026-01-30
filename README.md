@@ -19,9 +19,6 @@ Sparas i mappen som heter SQLQueries, som ligger i projektet
 
 
 
-
-
-
 # 📦 InventoryOps – Team2  
 SQL + .NET Console App (Database First)
 
@@ -46,38 +43,6 @@ Scenariot är valt eftersom det är vanligt förekommande i verkliga affärssyst
 - JOINs och rapportfrågor
 - views och säkerhet
 
----
-
-## 🗄️ Databas – köra SQL-filer i rätt ordning
-
-Alla SQL-filer finns i mappen `/sql`.  
-De ska köras **i följande ordning** i SQL Server Management Studio:
-
-1. `01_create_database.sql`  
-   Skapar databasen `SQLTeam2` och sätter context med `USE`
-
-2. `02_create_tables.sql`  
-   Skapar alla tabeller med primärnycklar, främmande nycklar, constraints och CHECK-regler
-
-3. `03_seed_data.sql`  
-   Lägger in testdata i samtliga tabeller
-
-4. `04_crud_examples.sql`  
-   Exempel på INSERT, SELECT, UPDATE och DELETE
-
-5. `05_queries_joins.sql`  
-   Rapport- och JOIN-queries enligt uppgiftskraven
-
-6. `06_views.sql`  
-   Skapar views (public view + report view)
-
-7. `07_security.sql`  
-   Skapar role och user samt sätter rättigheter på views
-
-8. `08_cleanup.sql`  
-   (Valfri) Rensar databasen så man kan börja om
-
----
 
 ## 🔧 Database First – scaffolda Entity Framework
 
