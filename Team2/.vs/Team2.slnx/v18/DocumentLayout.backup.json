@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DevSpace\\HA\\Databaser\\Team2-SQL-Injection\\Team2\\",
+  "WorkspaceRootPath": "E:\\Plugg\\HA\\04. Databaser\\Gruppprojekt\\Team2-SQL-Injection\\Team2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8B2BD2F-42F6-4620-A53E-506E8C35B637}|Team2.csproj|c:\\devspace\\ha\\databaser\\team2-sql-injection\\team2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8B2BD2F-42F6-4620-A53E-506E8C35B637}|Team2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD9EB868-52C4-63F2-FA19-DC2B0CF0A6B8}|Team2.csproj|e:\\plugg\\ha\\04. databaser\\gruppprojekt\\team2-sql-injection\\team2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9EB868-52C4-63F2-FA19-DC2B0CF0A6B8}|Team2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9EB868-52C4-63F2-FA19-DC2B0CF0A6B8}|Team2.csproj|e:\\plugg\\ha\\04. databaser\\gruppprojekt\\team2-sql-injection\\team2\\models\\sqlteam2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9EB868-52C4-63F2-FA19-DC2B0CF0A6B8}|Team2.csproj|solutionrelative:models\\sqlteam2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9EB868-52C4-63F2-FA19-DC2B0CF0A6B8}|Team2.csproj|e:\\plugg\\ha\\04. databaser\\gruppprojekt\\team2-sql-injection\\team2\\team2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD9EB868-52C4-63F2-FA19-DC2B0CF0A6B8}|Team2.csproj|solutionrelative:team2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +22,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sqlteam2Context.cs",
+              "DocumentMoniker": "E:\\Plugg\\HA\\04. Databaser\\Gruppprojekt\\Team2-SQL-Injection\\Team2\\Models\\Sqlteam2Context.cs",
+              "RelativeDocumentMoniker": "Models\\Sqlteam2Context.cs",
+              "ToolTip": "E:\\Plugg\\HA\\04. Databaser\\Gruppprojekt\\Team2-SQL-Injection\\Team2\\Models\\Sqlteam2Context.cs",
+              "RelativeToolTip": "Models\\Sqlteam2Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T12:11:24.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Team2.csproj",
+              "DocumentMoniker": "E:\\Plugg\\HA\\04. Databaser\\Gruppprojekt\\Team2-SQL-Injection\\Team2\\Team2.csproj",
+              "RelativeDocumentMoniker": "Team2.csproj",
+              "ToolTip": "E:\\Plugg\\HA\\04. Databaser\\Gruppprojekt\\Team2-SQL-Injection\\Team2\\Team2.csproj",
+              "RelativeToolTip": "Team2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-30T11:50:04.671Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DevSpace\\HA\\Databaser\\Team2-SQL-Injection\\Team2\\Program.cs",
+              "DocumentMoniker": "E:\\Plugg\\HA\\04. Databaser\\Gruppprojekt\\Team2-SQL-Injection\\Team2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\DevSpace\\HA\\Databaser\\Team2-SQL-Injection\\Team2\\Program.cs",
+              "ToolTip": "E:\\Plugg\\HA\\04. Databaser\\Gruppprojekt\\Team2-SQL-Injection\\Team2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAowHkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T09:46:18.393Z",
               "EditorCaption": ""
