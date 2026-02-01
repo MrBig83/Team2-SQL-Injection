@@ -58,4 +58,4 @@ Projektet använder **Database First** enligt uppgiften.
 Kör följande kommando i projektmappen:
 
 ```powershell
-Scaffold-DbContext "Server=SECFRAME;Database=SQLTeam2;Trusted_Connection=True;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
+Scaffold-DbContext "Server=<namnet på din dator där du har SQL server>;Database=SQLTeam2;Trusted_Connection=True;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
